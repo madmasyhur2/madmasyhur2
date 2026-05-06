@@ -93,5 +93,5 @@ Cumlaude CS graduate from **Brawijaya University** (GPA 3.80/4.00) with hands-on
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00ADD8" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=madmasyhur2&style=flat-square&color=00ADD8" alt="Profile views" />
 </div>
